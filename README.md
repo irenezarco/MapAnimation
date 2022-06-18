@@ -5,7 +5,7 @@
 
 
 ## Description 
-This is an exercise where there are two buttons: Create PacMan and Start Game. When you click "create PacMan" a new PacMan image appears in a random place in the page. When you click "Start Game" all the PacMen created start to move at random speeds and in random directions. When a PacMan hits a wall, it bounces back. I used JavaScript to code the movement of the PacMen. 
+This is an exercise where a webpage shows a map of Boston and the location of buses between Harvard and MIT in real time. It uses a map from Google maps and bus real time data from mbta.com
 
 ## How to Run
 Open the html file in any browser
@@ -13,8 +13,8 @@ Open the html file in any browser
 
 ## Roadmap of Future Improvements
 Future improvements include:
-  - Erasing all the PacMen. 
-  - Generating PacMen of different colors
+  - More Bus routes
+  - Zoom in to the map
 
 ## License Information
 No license was used in this project

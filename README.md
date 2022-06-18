@@ -1,7 +1,7 @@
 # MapAnimation
 
 
-<img src= "MapAnimation.png" width= '100' />
+<img src= "MapAnimation.png" width= '200' />
 
 
 ## Description 

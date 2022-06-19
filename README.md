@@ -16,5 +16,8 @@ Future improvements include:
   - More Bus routes
   - Zoom in to the map
 
-## License Information
-No license was used in this project
+## License 
+Distributed under the MIT License.
+
+## Contact 
+@irene56951729
